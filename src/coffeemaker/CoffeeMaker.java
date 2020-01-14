@@ -9,7 +9,7 @@ import classes.CoffeeMachine;
 
 /**
  *
- * @author George
+ * @author George.Giazitzis
  */
 public class CoffeeMaker {
 
