@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author George
+ * @author George.Giazitzis
  */
 public class CoffeeMachine {
 
