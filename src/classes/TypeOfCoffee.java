@@ -7,7 +7,7 @@ package classes;
 
 /**
  *
- * @author George
+ * @author George.Giazitzis
  */
 public enum TypeOfCoffee {
     ESPRESSO(250, 0, 16, 4),
